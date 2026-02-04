@@ -1,16 +1,25 @@
-## Hi there 👋
+# Salut, moi c’est Kenza 👋
 
-<!--
-**Kenzouche/Kenzouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en informatique, je m’oriente vers le développement logiciel et le développement web, avec une préférence pour le back-end.
 
-Here are some ideas to get you started:
+J’aime construire des projets concrets, comprendre comment les choses fonctionnent et progresser étape par étape à travers le code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Ce que j'ai construis
+🔹 Un mini compilateur en C++ / Assembleur  
+🔹 Des projets autour des structures de données et des graphes  
+🔹 Mon portfolio React
+
+---
+
+## 🧩 Ce que j’aime dans le dev
+- écrire du code propre et structuré
+- comprendre la logique derrière les systèmes
+- apprendre en construisant plutôt qu’en théorie
+
+---
+
+## 🌐 Me retrouver
+Portfolio → https://kenzatabet.pages.dev/
+LinkedIn → https://www.linkedin.com/in/kenza-tabet-1b5a7b372/
