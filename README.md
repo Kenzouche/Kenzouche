@@ -6,14 +6,14 @@ J’aime construire des projets concrets, comprendre comment les choses fonction
 
 ---
 
-## 🚀 Ce que j'ai construis
+##  Ce que j'ai construis
 🔹 Un mini compilateur en C++ / Assembleur  
 🔹 Des projets autour des structures de données et des graphes  
 🔹 Mon portfolio React
 
 ---
 
-## 🧩 Ce que j’aime dans le dev
+##  Ce que j’aime dans le dev
 - écrire du code propre et structuré
 - comprendre la logique derrière les systèmes
 - apprendre en construisant plutôt qu’en théorie
